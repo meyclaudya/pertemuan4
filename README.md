@@ -2,7 +2,7 @@
 Tugas Praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-<img src="pert4.jpeg" alt="Deskripsi" width="50%">
+<img src="per4.jpeg" alt="Deskripsi" width="50%">
 
 ## 🛠️ Logic Implemented
 - **useState Hook:** Managing name and role input.
